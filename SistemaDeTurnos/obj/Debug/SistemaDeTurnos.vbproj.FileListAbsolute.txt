@@ -1,0 +1,33 @@
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\bin\Debug\SistemaDeTurnos.exe.config
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\bin\Debug\SistemaDeTurnos.exe
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\bin\Debug\SistemaDeTurnos.pdb
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\bin\Debug\SistemaDeTurnos.xml
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Form1.resources
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Form2.resources
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Resources.resources
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.vbproj.GenerateResource.Cache
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.exe
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.xml
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.pdb
+C:\Users\keren\Documents\Visual Studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Form3.resources
+C:\Users\keren\Documents\Visual Studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Form4.resources
+C:\Users\keren\Documents\Visual Studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Form5.resources
+C:\Users\keren\Documents\Visual Studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.vbprojResolveAssemblyReference.cache
+C:\Users\vicra\Documents\GitHub\SistemaDeTurnos\SistemaDeTurnos\bin\Debug\SistemaDeTurnos.exe.config
+C:\Users\vicra\Documents\GitHub\SistemaDeTurnos\SistemaDeTurnos\bin\Debug\SistemaDeTurnos.exe
+C:\Users\vicra\Documents\GitHub\SistemaDeTurnos\SistemaDeTurnos\bin\Debug\SistemaDeTurnos.pdb
+C:\Users\vicra\Documents\GitHub\SistemaDeTurnos\SistemaDeTurnos\bin\Debug\SistemaDeTurnos.xml
+C:\Users\vicra\Documents\GitHub\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.vbprojResolveAssemblyReference.cache
+C:\Users\vicra\Documents\GitHub\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Form1.resources
+C:\Users\vicra\Documents\GitHub\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Form2.resources
+C:\Users\vicra\Documents\GitHub\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Form3.resources
+C:\Users\vicra\Documents\GitHub\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Resources.resources
+C:\Users\vicra\Documents\GitHub\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.vbproj.GenerateResource.cache
+C:\Users\vicra\Documents\GitHub\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.vbproj.CoreCompileInputs.cache
+C:\Users\vicra\Documents\GitHub\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.exe
+C:\Users\vicra\Documents\GitHub\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.xml
+C:\Users\vicra\Documents\GitHub\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.pdb
+C:\Users\vicra\Documents\GitHub\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.FormularioCliente.resources
+C:\Users\vicra\Documents\GitHub\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.FormListas.resources
+C:\Users\vicra\Documents\GitHub\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.MainForm.resources
+C:\Users\vicra\Documents\GitHub\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.SiguienteForm.resources
